@@ -1,7 +1,7 @@
 parallaxIt
 ======
 
-Possibly the simplest parallax plugin out there.
+Possibly the most simple jQuery parallax plugin out there.
 
 
 Usage:
